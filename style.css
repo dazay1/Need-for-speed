@@ -1,0 +1,398 @@
+body {
+    background-color: black;
+    height: 2900px;
+}
+.car {
+    background: url("img/e4c0e7a1aff9e108b21fc2f3a29793c5.jpg" ) no-repeat;
+    width: 1640px;
+    height: 970px;
+}
+.a {
+    background: rgba(0, 0, 0, 0.5);
+}
+.b {
+    font-size: 24px;
+    float: left;
+    margin: 20px 30px;
+}
+li a {
+    text-decoration: none;
+    color: rgb(219, 216, 216);
+}
+h1 {
+    font-size: 50px;
+    color: red;
+    position: absolute;
+    margin: 100px 70px
+}
+.input {
+    background: #121111;
+    opacity: 0.4;
+    width: 500px;
+    height: 50px;
+    position: absolute;
+    top: 120px;
+    left: 500px;
+    border-radius: 20px;
+}
+input::placeholder {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+.c {
+    color: green;
+    font-size: 30px;
+    position: absolute;
+    top: 100px;
+    left: 1100px;
+}
+.for {
+    background: url("img/need\ for\ speed.jpg");
+    border-radius:20px ;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    margin: 260px 70px ;
+}
+.squad {
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 750px;
+}
+.d {
+    color: green;
+    font-size: 20px;
+    position: absolute;
+    top: 350px;
+    left: 750px;
+}
+.money {
+    font-size: 50px;
+    position: absolute;
+    color: white;
+    top: 350px;
+    left: 750px;
+}
+.money2 {
+    font-size: 30px;
+    color: green;
+    position: absolute;
+    top: 380px;
+    left: 900px;
+}
+.money3 {
+    font-size: 45px;
+    color: #504f4f;
+    position: absolute;
+    top: 355px;
+    left: 1000px;
+}
+.sell {
+    background-color:green;
+    width: 180px;
+    height: 60px;
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 750px;
+}
+.korzina {
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    width: 180px;
+    height: 60px;
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 950px;
+}
+span {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 15px;
+    left: 45px;
+    
+}
+.cars {
+    background: url("img/race_01.jpg") 50% no-repeat;
+    border-radius: 20px;
+    width: 300px;
+    height: 169px;
+    position: absolute;
+    top: 700px;
+    left: 70px;
+}
+.cars2 {
+    background:url("img/a6a252e398172a8cd0de24a9af04f0b1.jpg");
+    border-radius: 20px;
+    width: 300px;
+    height: 169px;
+    position: absolute;
+    top: 700px;
+    left: 450px;
+}
+.cars3 {
+    background: url("img/p1_3074808_d4e00c6e.jpg");
+    border-radius: 20px;
+    width: 300px;
+    height: 169px;
+    position: absolute;
+    top: 700px;
+    left: 830px;
+}
+.cars4 {
+    background: url("img/xbox-one-need-for-speed-heat_5.jpg");
+    border-radius: 20px;
+    width: 300px;
+    height: 169px;
+    position: absolute;
+    top: 700px;
+    left: 1210px;
+}
+.e {
+    color: black;
+}
+.f {
+    color: white;
+    font-size: 30px;
+    float: left;
+    text-decoration: none;
+    margin: 930px 30px ;
+    border-bottom: 2px solid white;
+    
+}
+.g {
+    color:  #504f4f;;
+    font-size: 30px;
+    float: left;
+    text-decoration: none;
+    margin: 930px 400px;
+}
+.h {
+    color:  #504f4f;;
+    font-size: 30px;
+    float: left;
+    text-decoration: none;
+    margin: 930px 800px;
+}
+.Tampriel {
+    font-size: 40px;
+    color: white;
+    margin: 1000px 70px 0 70px;
+}
+.text {
+    color: #504f4f;
+    font-size: 20px;
+    margin: 50px 70px;
+    width: 1300px;
+}
+.interesting {
+    color: white;
+    font-size: 40px;
+    margin: 100px 70px;
+}
+.minecraft {
+    background:url("img/8-minecraft.jpg");
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    margin: 20px  0px 0 70px;
+}
+.money5 {
+    font-size: 40px;
+    color: white;
+    margin: 20px 0px 0px 90px;
+}
+.money6 {
+    font-size: 30px;
+    color: green;
+    margin: -40px 210px;
+}
+.money7 {
+    font-size: 30px;
+    color: #504f4f;
+    margin: 5px 320px;
+}
+.name {
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 1880px;
+    left: 90px;
+}
+.gta {
+    background: url("img/img.jpg");;
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    margin: -310px 0px 0 530px;
+}
+.money8 {
+    font-size: 40px;
+    color: white;
+    margin: 20px 0px 0px 560px;
+}
+.money9 {
+    font-size: 30px;
+    color: green;
+    margin: -40px  670px;
+}
+.money10 {
+    font-size: 30px;
+    color: #504f4f;
+    margin: 5px 780px;
+}
+.name2 {
+    font-size: 40px;
+    color:white;
+    position: absolute;
+    top: 1880px;
+    left: 550px;
+}
+.mortal {
+    background:url("img/4a2a3a5a9d15525e675e398f31decae6-scaled.jpg") no-repeat;
+    border-radius: 20px;
+    width: 400px;
+    height: 255px;
+    position: absolute;
+    top: 1580px;
+    left: 1000px;
+}
+.money11 {
+    font-size: 40px;
+    color: white;
+    margin: -40px 0px 0px 1030px
+}
+.money12 {
+    font-size: 30px;
+    color: green;
+    position: absolute;
+    top: 1827px;
+    left: 1170px;
+}
+.money13 {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 1827px;
+    left: 1300px;
+}
+.name3 {
+    font-size: 40px;
+    color:white;
+    position: absolute;
+    top: 1880px;
+    left: 1010px;
+}
+.card {
+    background-image: url("img/3b8d8fca22198f061d504446ab5f7026.png");
+    background-repeat: no-repeat;
+    background-color: #504f4f;
+    width: 300px;
+    height: 169px;
+    position: absolute;
+    top: 2100px;
+    left: 150px;
+}
+.card2 {
+    background-image: url("img/3b8d8fca22198f061d504446ab5f7026.png");
+    background-repeat: no-repeat;
+    background-color: #504f4f;
+    width: 300px;
+    height: 169px;
+    position: absolute;
+    top: 2100px;
+    left: 650px;
+}
+.card3 {
+        background-image: url("img/3b8d8fca22198f061d504446ab5f7026.png");
+        background-repeat: no-repeat;
+        background-color: #504f4f;
+        width: 300px;
+        height: 169px;
+        position: absolute;
+        top: 2100px;
+        left: 1150px;
+}
+.ab {
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 2300px;
+    left: 500px;
+}
+.ac {
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 2300px;
+    left: 1000px;
+}
+.ad {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 2370px;
+    left: 500px;
+}
+.ae {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 2420px;
+    left: 500px;
+}
+.af {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 2470px;
+    left: 500px;
+}
+.ag {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 2370px;
+    left: 1000px;
+}
+.ah {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 2420px;
+    left: 1000px;    
+}
+.ai {
+    font-size: 30px;
+    color: #504f4f;
+    position: absolute;
+    top: 2470px;
+    left: 1000px;
+}
+.enaza {
+    color: #504f4f;
+    font-size: 24px;
+    position: absolute;
+    top: 2550px;
+    left: 100px;
+}
+.border {
+    margin: 750px 0 0 ;
+    border-top: 1px solid #504f4f;
+}
+.text2 {
+    color: blue;
+    font-size: 30px;
+    margin: 50px 0 0 300px;
+}
+.text3 {
+    color: #504f4f;
+    font-size: 30px;
+    margin: -30px  0 0 900px ;
+}
